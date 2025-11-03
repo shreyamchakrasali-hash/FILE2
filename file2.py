@@ -7,4 +7,4 @@ time = 3            # Time in years
 simple_interest = (principal * rate * time) / 100
 
 
-print(f"Calculated Simple Interest: ₹{simple_interest}")
+print("Calculated Simple Interest",simple_interest)
